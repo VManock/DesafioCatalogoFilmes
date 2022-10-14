@@ -1,0 +1,35 @@
+h2 {
+    background:#31ada1;
+    padding: 20px 0;
+    width: 600px;
+    margin: 5% auto;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 7px 3px 8px 5px rgba(0,0,0,0.51);
+}
+
+.container {
+    text-align: center;
+    padding: 10px;
+    max-width: 30%;
+
+}
+
+.poster {
+    max-width:  250px;
+
+}
+
+
+
+
+/*
+Paleta de cores
+.color1 { #beed80 };
+.color2 { #59d999 };
+.color3 { #31ada1 };
+.color4 { #51647a };
+.color5 { #453c5c };
+*/
