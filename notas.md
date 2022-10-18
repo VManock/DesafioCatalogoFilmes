@@ -26,3 +26,18 @@ Comecei a trabalhar com o código .fetch para coletar os dados da API, a estrutu
 Você pode ver o meu progresso no meu repositório: 
 https://github.com/VManock/DesafioCatalogoFilmes
 
+3.
+
+Hoje eu entendi melhor como usar a async function junto do await no meu código e corrigi um problema que estava me impedindo de receber o resultado da promessa da API
+
+Agora estou estudando como coletar o dado especifico do Array, no caso, o poster, o título, a sinopse e a nota. Como é uma array multidimensional, é um pouco mais dificil, mas acredito estar perto de entender após minhas pesquisas de hoje.
+
+Uma vez que isso for resolvido, precisarei utilizar essa informação do Array no meu HTML, e em seguida, aprender a replicar isso várias vezes.
+
+Talvez eu faça um sistema que permita o usuário a escrever o nome do filme que ele deseja adicionar no cátalogo.
+
+E por último, quero incrementar o visual do site atráves do HTML e principalmente CSS.
+
+
+Você pode ver o meu progresso no meu repositório: 
+https://github.com/VManock/DesafioCatalogoFilmes
