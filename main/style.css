@@ -27,11 +27,14 @@ h2 {
     max-width: 30%;
     margin: 10px 0.75%;
     border-radius: 10px;  
+    
 }
 
 .poster {
     max-width: 96%;
-
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 

@@ -41,3 +41,7 @@ E por último, quero incrementar o visual do site atráves do HTML e principalme
 
 Você pode ver o meu progresso no meu repositório: 
 https://github.com/VManock/DesafioCatalogoFilmes
+
+4. 
+
+Hoje tive uma aula com o Diego e o time de desenvolvimento, entendi como aplicar acessar propriamente a informação que me interessa da API, existia um array chamado results, bastava eu expressar results.
