@@ -53,7 +53,13 @@ Também entnedi o conceito de forEach, um loop muito simples.
 E confirmei que minha função asincrona utilizando .fetch e await estava correta.
 
 5. 
-hoje fiz utilizei pela primeira vez o (Math.round(n * 100) / 100).toFixed(1), esse trecho mantem o float padronizado e arredonda casas decimais, muito útil.
+Hoje fiz utilizei pela primeira vez o (Math.round(n * 100) / 100).toFixed(1), esse trecho mantem o float padronizado e arredonda casas decimais, muito útil.
 
 E também elaborei o css do projeto para que os cards fiquem sempre centralizados, com uma distância horizontal proporcional.
 
+6. 
+
+Trabalhei com o footer, estou pesquisando sobre display e width para entender como fazer o box ocupar toda a largura da página.
+
+Você pode ver o meu progresso no meu repositório: 
+https://github.com/VManock/DesafioCatalogoFilmes
