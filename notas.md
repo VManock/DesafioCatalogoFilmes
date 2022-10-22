@@ -45,3 +45,15 @@ https://github.com/VManock/DesafioCatalogoFilmes
 4. 
 
 Hoje tive uma aula com o Diego e o time de desenvolvimento, entendi como aplicar acessar propriamente a informação que me interessa da API, existia um array chamado results, bastava eu expressar results.
+
+Aprendi a colocar o html em uma váriavel, basta escrever var a = `html` e para acrecentar alguma váriavel eu posso usar o ${}
+
+Também entnedi o conceito de forEach, um loop muito simples.
+
+E confirmei que minha função asincrona utilizando .fetch e await estava correta.
+
+5. 
+hoje fiz utilizei pela primeira vez o (Math.round(n * 100) / 100).toFixed(1), esse trecho mantem o float padronizado e arredonda casas decimais, muito útil.
+
+E também elaborei o css do projeto para que os cards fiquem sempre centralizados, com uma distância horizontal proporcional.
+

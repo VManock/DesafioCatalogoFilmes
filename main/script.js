@@ -16,17 +16,17 @@ async function gerador () {
             if (movie.media_type !== "tv") {
 
                 let poster = "https://image.tmdb.org/t/p/original/" +  movie.poster_path;
+                
+                let nota = (Math.round(parseFloat(movie.vote_average) * 100) / 100).toFixed(1); 
+                
 
                 let card = 
                     `<div class="card">
                     <div class="poster" style="background-image: url('${poster}');">></div>
                     <div class="titulo">${movie.title}</div>
                     <div class="sinopse">${movie.overview}</div>
-                    <div class="nota">${movie.vote_average}</div>
+                    <div class="nota">⭐ ${nota}/10</div>
                     </div>`
-
-
-                console.log(dadosConvertidos);
 
                 container.innerHTML += card
             }
